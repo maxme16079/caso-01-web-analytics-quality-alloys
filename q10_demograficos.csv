@@ -1,0 +1,55 @@
+titulo,categoria,visits,participacion,destacado
+All Traffic Sources,Referring Sites,38754,55.81656608719449,TRUE
+All Traffic Sources,Search Engines,20964,30.194005559476317,FALSE
+All Traffic Sources,Direct Traffic,9709,13.983667237977274,FALSE
+All Traffic Sources,Other,4,0.005761115351932134,FALSE
+Top Ten Referring Sites,googleads.g.doubleclick.net,15626,52.3624421955633,TRUE
+Top Ten Referring Sites,pagead2.googlesyndication.com,8044,26.95529790228537,FALSE
+Top Ten Referring Sites,sedoparking.com,3138,10.515381006634945,FALSE
+Top Ten Referring Sites,globalspec.com,693,2.322230413511159,FALSE
+Top Ten Referring Sites,searchportal.information.com,582,1.950271429528852,FALSE
+Top Ten Referring Sites,freepatentsonline.com,389,1.303531934856913,FALSE
+Top Ten Referring Sites,thomasnet.com,379,1.2700221164801286,FALSE
+Top Ten Referring Sites,mu.com,344,1.1527377521613833,FALSE
+Top Ten Referring Sites,mail.google.com,337,1.1292808792976343,FALSE
+Top Ten Referring Sites,psicofxp.com,310,1.0388043696803164,FALSE
+Top Ten Search Engine Sources of Visits,google,17681,84.67911877394636,TRUE
+Top Ten Search Engine Sources of Visits,yahoo,1250,5.986590038314176,FALSE
+Top Ten Search Engine Sources of Visits,search,592,2.835249042145594,FALSE
+Top Ten Search Engine Sources of Visits,msn,424,2.0306513409961684,FALSE
+Top Ten Search Engine Sources of Visits,aol,309,1.4798850574712645,FALSE
+Top Ten Search Engine Sources of Visits,ask,268,1.2835249042145593,FALSE
+Top Ten Search Engine Sources of Visits,live,145,0.6944444444444444,FALSE
+Top Ten Search Engine Sources of Visits,bing,122,0.5842911877394636,FALSE
+Top Ten Search Engine Sources of Visits,voila,63,0.3017241379310345,FALSE
+Top Ten Search Engine Sources of Visits,netscape,26,0.12452107279693488,FALSE
+Top Ten Geographic Sources by Sub Continent Region,South America,22616,34.48296892629524,TRUE
+Top Ten Geographic Sources by Sub Continent Region,Northern America,17509,26.696246150093007,FALSE
+Top Ten Geographic Sources by Sub Continent Region,Central America,6776,10.331473180251884,FALSE
+Top Ten Geographic Sources by Sub Continent Region,Western Europe,5214,7.949867349739273,FALSE
+Top Ten Geographic Sources by Sub Continent Region,Eastern Asia,3228,4.921782087640655,FALSE
+Top Ten Geographic Sources by Sub Continent Region,Northern Europe,2721,4.148751257890403,FALSE
+Top Ten Geographic Sources by Sub Continent Region,Southern Asia,2589,3.947488793340042,FALSE
+Top Ten Geographic Sources by Sub Continent Region,South-Eastern Asia,1968,3.0006403805690236,FALSE
+Top Ten Geographic Sources by Sub Continent Region,Southern Europe,1538,2.3450126551398167,FALSE
+Top Ten Geographic Sources by Sub Continent Region,Eastern Europe,1427,2.1757692190406486,FALSE
+Top Ten Browsers Used,Internet Explorer,53080,76.4940698361459,TRUE
+Top Ten Browsers Used,Firefox,13142,18.939055497110576,FALSE
+Top Ten Browsers Used,Opera,938,1.3517603147382227,FALSE
+Top Ten Browsers Used,Safari,850,1.2249427159141675,FALSE
+Top Ten Browsers Used,Chrome,792,1.141358389416495,FALSE
+Top Ten Browsers Used,Mozilla,478,0.688850139067026,FALSE
+Top Ten Browsers Used,Netscape,47,0.06773212664466573,FALSE
+Top Ten Browsers Used,Konqueror,31,0.044674381403928466,FALSE
+Top Ten Browsers Used,SeaMonkey,24,0.03458661786110591,FALSE
+Top Ten Browsers Used,Camino,9,0.012969981697914714,FALSE
+Top Ten Operating Systems Used,Windows,67063,96.60194174757282,TRUE
+Top Ten Operating Systems Used,Macintosh,1184,1.7055112212267003,FALSE
+Top Ten Operating Systems Used,Linux,1045,1.5052865085995795,FALSE
+Top Ten Operating Systems Used,(not set),48,0.06914234680648786,FALSE
+Top Ten Operating Systems Used,iPhone,29,0.04177350119558641,FALSE
+Top Ten Operating Systems Used,SymbianOS,20,0.02880931116936994,FALSE
+Top Ten Operating Systems Used,FreeBSD,18,0.025928380052432948,FALSE
+Top Ten Operating Systems Used,iPod,8,0.011523724467747975,FALSE
+Top Ten Operating Systems Used,Playstation 3,4,0.005761862233873987,FALSE
+Top Ten Operating Systems Used,Playstation Portable,3,0.004321396675405491,FALSE
