@@ -1,0 +1,7 @@
+intervalo,teorico_pct,teorico_obs,real_obs,real_pct
+media a media + 1 desv. est.,34,99,84,29
+media - 1 desv. est. a media,34,99,117,40.3
+1 a 2 desv. est.,13.5,39,35,12.1
+-1 a -2 desv. est.,13.5,39,40,13.8
+2 a 3 desv. est.,2,6,9,3.1
+-2 a -3 desv. est.,2,6,3,1
