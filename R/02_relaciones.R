@@ -81,7 +81,7 @@ g7 <- matriz_cor |>
                        midpoint = 0, limits = c(-1, 1)) +
   labs(title = "Matriz de correlaciones de las variables semanales",
        subtitle = "66 semanas, mayo 2008 a agosto 2009",
-       x = NULL, y = NULL, fill = "r") +
+       x = "Variable", y = "Variable", fill = "r") +
   tema_qa +
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 guardar(g7, "q7_matriz_correlaciones.png", ancho = 8, alto = 7)

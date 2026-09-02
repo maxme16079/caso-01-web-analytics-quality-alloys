@@ -40,7 +40,7 @@ for (t in names(titulos)) {
     scale_x_continuous(labels = scales::comma, expand = expansion(mult = c(0, 0.25))) +
     labs(title = titulos[[t]],
          subtitle = "Visitas acumuladas del 25 de mayo de 2008 al 29 de agosto de 2009",
-         x = "Visitas", y = NULL) +
+         x = "Visitas", y = "Categoria") +
     tema_qa +
     theme(legend.position = "none", panel.grid.major.y = element_blank())
   guardar(g, archivos[[t]], ancho = 8, alto = 4.8)
