@@ -1,0 +1,14 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+.Rapp.history
+
+# Excel temporales
+~$*
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
